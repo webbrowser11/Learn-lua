@@ -1,2 +1,2 @@
 # Learn-lua
-Learning Lua
+Learning Lua [Course](https://www.codecademy.com/courses/learn-lua)
